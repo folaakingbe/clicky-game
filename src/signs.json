@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Aries",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aries.svg/20px-Aries.svg.png",
+        "date": "March 21-April 20"
+    },
+    {
+        "id": 2,
+        "name": "Taurus",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Taurus.svg/20px-Taurus.svg.png",
+        "date": "April 21-May 21"
+    },
+    {
+        "id": 3,
+        "name": "Gemini",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gemini.svg/20px-Gemini.svg.png",
+        "date": "May 22-June 21"
+    },
+    {
+        "id": 4,
+        "name": "Cancer",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cancer.svg/20px-Cancer.svg.png",
+        "date": "June 22-July 22"
+    },
+    {
+        "id": 5,
+        "name": "Leo",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Leo.svg/20px-Leo.svg.png",
+        "date": "July 23-August 22"
+    },
+    {
+        "id": 6,
+        "name": "Virgo",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Virgo.svg/20px-Virgo.svg.png",
+        "date": "August 23-September 23"
+    },
+    {
+        "id": 7,
+        "name": "Libra",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Libra.svg/20px-Libra.svg.png",
+        "date": "September 24-October 23"
+    },
+    {
+        "id": 8,
+        "name": "Scorpio",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Scorpio.svg/20px-Scorpio.svg.png",
+        "date": "October 24-November 22"
+    },
+    {
+        "id": 9,
+        "name": "Sagittarius",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sagittarius.svg/20px-Sagittarius.svg.png",
+        "date": "November 23-December 21"
+    },
+    {
+        "id": 10,
+        "name": "Capricorn",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Capricorn.svg/20px-Capricorn.svg.png",
+        "date": "December 22-January 20"
+    },
+    {
+        "id": 11,
+        "name": "Aquarius",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Aquarius.svg/20px-Aquarius.svg.png",
+        "date": "January 21-February 19"
+    },
+    {
+        "id": 12,
+        "name": "Pisces",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pisces.svg/20px-Pisces.svg.png",
+        "date": "February 20-March 20"
+    }
+]
